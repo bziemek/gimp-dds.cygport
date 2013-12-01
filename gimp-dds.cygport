@@ -1,5 +1,5 @@
 NAME="gimp-dds"
-VERSION=2.2.1
+VERSION=3.0.0
 RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="GIMP Direct Draw Surface format plugin"
