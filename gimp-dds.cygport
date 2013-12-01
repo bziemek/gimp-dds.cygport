@@ -1,9 +1,12 @@
+NAME="gimp-dds"
+VERSION=2.2.1
+RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="GIMP Direct Draw Surface format plugin"
 DESCRIPTION="This is a plugin for the GIMP. It allows you to load and save
 images in Direct Draw Surface (DDS) format."
 HOMEPAGE="http://code.google.com/p/gimp-dds/"
-SRC_URI="http://gimp-dds.googlecode.com/files/${P}.tar.bz2"
+SRC_URI="http://gimp-dds.googlecode.com/files/${NAME}-${VERSION}.tar.bz2"
 
 src_compile() {
 	lndirs
